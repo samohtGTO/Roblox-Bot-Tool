@@ -7,7 +7,7 @@ from time import sleep as snooze
 from Debug import Log as log
 
 #Info
-uname = "JorgeCrawford38"
+uname = "resalcemag"
 pword = uname[::-1]
 sex = "Male" #Female
 bdaymonth = "Aug"
